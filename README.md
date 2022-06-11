@@ -9,3 +9,8 @@ Visualization Types
 5. Pie Chart
 6. Heatmap
 7. Box Plot
+
+Sub Plots
+
+Planets
+I used planets.csv for isna() and fillna() example.
