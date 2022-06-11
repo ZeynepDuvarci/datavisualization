@@ -12,5 +12,4 @@ Visualization Types
 
 Sub Plots
 
-Planets
-I used planets.csv for isna() and fillna() example.
+Planets:  I used planets.csv for isna() and fillna() example.
