@@ -13,3 +13,4 @@ Visualization Types
 Sub Plots
 
 Planets:  I used planets.csv for isna() and fillna() example.
+Diamonds: I used diamonds.csv for distplot() and FacetGrid() example.
