@@ -1,5 +1,5 @@
 # Data Visualization
-I'm sharing my notes from Global AI Hub Data Visualization course.
+I'm sharing my notes for data visualization
 
 Visualization Types
 1. Line Plot
